@@ -1,0 +1,36 @@
+{
+    "hits": [
+        {
+            "title": "Cypress",
+            "url": "https://example.com",
+            "author": "Tester",
+            "points": 838,
+            "num_comments": 489,
+            "objectID": 1
+        },
+        {
+            "title": "Cypress",
+            "url": "https://example.com",
+            "author": "Tester 2",
+            "points": 22,
+            "num_comments": 55,
+            "objectID": 2
+        },
+        {
+            "title": "React",
+            "url": "https://example.com",
+            "author": "Tester",
+            "points": 838,
+            "num_comments": 489,
+            "objectID": 3
+        },
+        {
+            "title": "React",
+            "url": "https://example.com",
+            "author": "Tester",
+            "points": 34,
+            "num_comments": 23,
+            "objectID": 4
+        }
+    ]
+}
